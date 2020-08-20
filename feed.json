@@ -1,28 +1,15 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "psa-poc",
+    "title": "Publii POC",
     "description": "",
     "home_page_url": "https://yncredible.github.io/publii",
     "feed_url": "https://yncredible.github.io/publii/feed.json",
     "user_comment": "",
+    "icon": "https://yncredible.github.io/publii/media/website/re-logo-indra.svg",
     "author": {
         "name": "calibrate"
     },
     "items": [
-        {
-            "id": "https://yncredible.github.io/publii/gallery.html",
-            "url": "https://yncredible.github.io/publii/gallery.html",
-            "title": "Gallery",
-            "summary": " ",
-            "content_html": "\n  <div  class=\"gallery-wrapper gallery-wrapper--center\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://yncredible.github.io/publii/media/posts/2/gallery/pub-european-network-operations-plan-2019-2024-1.0.jpg\" data-size=\"1000x1414\">\n        <img loading=\"lazy\" src=\"https://yncredible.github.io/publii/media/posts/2/gallery/pub-european-network-operations-plan-2019-2024-1.0-thumbnail.jpg\" height=\"1018\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://yncredible.github.io/publii/media/posts/2/gallery/pub-network-operational-framework-2019.jpg\" data-size=\"1000x1414\">\n        <img loading=\"lazy\" src=\"https://yncredible.github.io/publii/media/posts/2/gallery/pub-network-operational-framework-2019-thumbnail.jpg\" height=\"1018\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://yncredible.github.io/publii/media/posts/2/gallery/pub-network-strategy-plan-2015-2019.jpg\" data-size=\"1000x1414\">\n        <img loading=\"lazy\" src=\"https://yncredible.github.io/publii/media/posts/2/gallery/pub-network-strategy-plan-2015-2019-thumbnail.jpg\" height=\"1018\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://yncredible.github.io/publii/media/posts/2/gallery/pub-nm-annual-report-2017.jpg\" data-size=\"1000x1414\">\n        <img loading=\"lazy\" src=\"https://yncredible.github.io/publii/media/posts/2/gallery/pub-nm-annual-report-2017-thumbnail.jpg\" height=\"1018\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://yncredible.github.io/publii/media/posts/2/gallery/pub-nm-interoperability-strategy-may-2016.jpg\" data-size=\"1000x1414\">\n        <img loading=\"lazy\" src=\"https://yncredible.github.io/publii/media/posts/2/gallery/pub-nm-interoperability-strategy-may-2016-thumbnail.jpg\" height=\"1018\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
-            "author": {
-                "name": "calibrate"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-08-20T11:03:58+02:00",
-            "date_modified": "2020-08-20T11:03:58+02:00"
-        },
         {
             "id": "https://yncredible.github.io/publii/how-it-all-started.html",
             "url": "https://yncredible.github.io/publii/how-it-all-started.html",
@@ -34,8 +21,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-20T11:03:58+02:00",
-            "date_modified": "2020-08-20T11:03:58+02:00"
+            "date_published": "2020-08-20T17:14:30+02:00",
+            "date_modified": "2020-08-20T17:14:30+02:00"
         }
     ]
 }
